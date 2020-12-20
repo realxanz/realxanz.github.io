@@ -9,11 +9,11 @@
 
 ---
 [Protect the Kingdom](/protect-the-kingdom)
-<img src="images/protect-the-kingdom.png?raw=true"/>
+<img src="images/Protect-The_Kingdom.png?raw=true"/>
 
 ---
-[Projeto Buff DH](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[La Guilda](/la-guilda)
+<img src="la-guilda.png?raw=true"/>
 
 ---
 
