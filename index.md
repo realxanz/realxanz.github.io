@@ -4,16 +4,16 @@
 
 ## Projects
 
-[Chicken Apocalypse](/chicken-apocalypse)
+### [Chicken Apocalypse](/chicken-apocalypse)
 <img src="images/ChickenApocalypse_Logo.png?raw=true"/>
 
 ---
-[Protect the Kingdom](/protect-the-kingdom)
+### [Protect the Kingdom](/protect-the-kingdom)
 <img src="images/Protect-The_Kingdom.png?raw=true"/>
 
 ---
-[La Guilda](/la-guilda)
-<img src="la-guilda.png?raw=true"/>
+### [La Guilda](/la-guilda)
+<img src="images/la-guilda.png?raw=true"/>
 
 ---
 

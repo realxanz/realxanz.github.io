@@ -1,6 +1,7 @@
 # La Guilda
 
 A fast paced platform game with power-ups and a score system that depends on the collectables the player has collected.
+This project was made for a _college assignment_.
 
 **_Team size:_ 2** 
 **_Made in Construct 3._**
