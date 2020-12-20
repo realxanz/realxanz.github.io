@@ -2,13 +2,13 @@
 
 ---
 
-### Projetos
+### Projects
 
-[Chicken Apocalypse](/chicken_apocalypse)
+[Chicken Apocalypse](/chicken-apocalypse)
 <img src="images/ChickenApocalypse_Logo.png?raw=true"/>
 
 ---
-[Projeto Morra Artur](/pdf/sample_presentation.pdf)
+[Protect the Kingdom](/protect-the-kingdom)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
