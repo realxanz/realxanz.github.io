@@ -4,9 +4,9 @@ A 3rd person shooter where you play as a chicken who shoots the enemy snakes.
 This project was made for a _college assignment_.
 
 **_Team size:_ 2**
-
+&nbsp;
 **_Made in Unity._**
-
+&nbsp;
 **_Year 2020._**
 
 **In this project I acted as**
