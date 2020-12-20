@@ -9,7 +9,7 @@
 
 ---
 [Protect the Kingdom](/protect-the-kingdom)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/protect-the-kingdom.png?raw=true"/>
 
 ---
 [Projeto Buff DH](http://example.com/)

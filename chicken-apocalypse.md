@@ -14,6 +14,7 @@ Game designer and developer, and I was the only programmer in this project, maki
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yxxj7yLxm5s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
 **Difficulties**
 
 In this project, I’ve faced problems with generating the enemies, that makes the game stutter a little, and also had problems with the camera.

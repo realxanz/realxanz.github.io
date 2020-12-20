@@ -1,0 +1,44 @@
+[1mdiff --git a/chicken-apocalypse.md b/chicken-apocalypse.md[m
+[1mindex 65bfd81..124e637 100644[m
+[1m--- a/chicken-apocalypse.md[m
+[1m+++ b/chicken-apocalypse.md[m
+[36m@@ -14,6 +14,7 @@[m [mGame designer and developer, and I was the only programmer in this project, maki[m
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Yxxj7yLxm5s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>[m
+ [m
+ [m
+[32m+[m
+ **Difficulties**[m
+ [m
+ In this project, I’ve faced problems with generating the enemies, that makes the game stutter a little, and also had problems with the camera.[m
+[1mdiff --git a/images/ChickenApocalypse_Logo.png b/images/ChickenApocalypse_Logo.png[m
+[1mindex d3e7201..86d7045 100644[m
+Binary files a/images/ChickenApocalypse_Logo.png and b/images/ChickenApocalypse_Logo.png differ
+[1mdiff --git a/images/Protect-The_Kingdom.png b/images/Protect-The_Kingdom.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0ea0eba[m
+Binary files /dev/null and b/images/Protect-The_Kingdom.png differ
+[1mdiff --git a/index.md b/index.md[m
+[1mindex f1c6a4f..96d4ff3 100644[m
+[1m--- a/index.md[m
+[1m+++ b/index.md[m
+[36m@@ -9,7 +9,7 @@[m
+ [m
+ ---[m
+ [Protect the Kingdom](/protect-the-kingdom)[m
+[31m-<img src="images/dummy_thumbnail.jpg?raw=true"/>[m
+[32m+[m[32m<img src="images/protect-the-kingdom.png?raw=true"/>[m
+ [m
+ ---[m
+ [Projeto Buff DH](http://example.com/)[m
+[1mdiff --git a/protect-the-kingdom.md b/protect-the-kingdom.md[m
+[1mindex 18432ee..75793ff 100644[m
+[1m--- a/protect-the-kingdom.md[m
+[1m+++ b/protect-the-kingdom.md[m
+[36m@@ -14,6 +14,7 @@[m [mI’ve worked as a game designer and visual scripting (Construct 3) developer fo[m
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Yxxj7yLxm5s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>[m
+ [m
+ [m
+[32m+[m
+ **Difficulties**[m
+ [m
+ In this project, we didn't face many difficulties in the development because we already created a TD game in construct 3. The major problems were balance and game difficulty.[m

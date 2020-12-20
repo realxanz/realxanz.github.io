@@ -14,6 +14,7 @@ I’ve worked as a game designer and visual scripting (Construct 3) developer fo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yxxj7yLxm5s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
 **Difficulties**
 
 In this project, we didn't face many difficulties in the development because we already created a TD game in construct 3. The major problems were balance and game difficulty.
