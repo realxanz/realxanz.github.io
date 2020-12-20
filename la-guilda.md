@@ -1,7 +1,5 @@
 # La Guilda
 
-**Project description** 
-
 A fast paced platform game with power-ups and a score system that depends on the collectables the player has collected.
 
 **_Team size:_ 2** 

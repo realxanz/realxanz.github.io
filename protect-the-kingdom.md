@@ -1,7 +1,5 @@
 # Protect The Kingdom
 
-**Project description** 
-
 A rpg-ish tower defense where you’ve to protect the kingdom from the evil elf, Yerdna, invasion.
 This project was made for a college assignment.
 

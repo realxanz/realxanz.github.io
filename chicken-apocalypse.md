@@ -1,12 +1,12 @@
 # Chicken Apocalypse
 
-**Project description** 
-
 A 3rd person shooter where you play as a chicken who shoots the enemy snakes. 
 This project was made for a _college assignment_.
 
-**_Team size:_ 2** 
+**_Team size:_ 2**
+
 **_Made in Unity._**
+
 **_Year 2020._**
 
 **In this project I acted as**

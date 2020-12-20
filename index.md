@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Projects
+## Projects
 
 [Chicken Apocalypse](/chicken-apocalypse)
 <img src="images/ChickenApocalypse_Logo.png?raw=true"/>
