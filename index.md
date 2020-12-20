@@ -4,8 +4,8 @@
 
 ### Projetos
 
-[Projeto Odeio Uly](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Chicken Apocalypse](/chicken_apocalypse)
+<img src="images/ChickenApocalypse_Logo.png?raw=true"/>
 
 ---
 [Projeto Morra Artur](/pdf/sample_presentation.pdf)
