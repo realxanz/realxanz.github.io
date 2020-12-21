@@ -5,6 +5,7 @@
 
 $black-primary: #131419;
 $white-primary: #FFF;
+$white-secundary: #EAEDF2;
 $gray-primary: #5F5F6E;
 
 body {
@@ -18,6 +19,14 @@ h1, h2, h3, h4, h5, h6 {
     a {
         color: $gray-primary
     }
+
+    a:hover {
+        color: $white-secundary;
+    }
+}
+
+h1 a, h1 a:hover {
+    color: $white-primary
 }
 
 a {
