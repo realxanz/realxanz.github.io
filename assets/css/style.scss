@@ -3,10 +3,14 @@
 
 @import "{{ site.theme }}";
 
+$black-primary: #131419;
+$white-primary: #FFF;
+
 body {
-    background-color: darkkhaki;
+    background-color: $black-primary;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: indigo;
+    color: $white-primary;
 }
+
