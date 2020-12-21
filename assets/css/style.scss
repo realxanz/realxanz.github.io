@@ -5,7 +5,7 @@
 
 $black-primary: #131419;
 $white-primary: #FFF;
-$purple-primary: #4447E2;
+$gray-primary: #282B31;
 
 body {
     background-color: $black-primary;
@@ -16,10 +16,10 @@ h1, h2, h3, h4, h5, h6 {
     color: $white-primary;
     
     a {
-        color: $purple-primary
+        color: $gray-primary
     }
 }
 
 a {
-    color: $purple-primary;
+    color: $gray-primary;
 }
