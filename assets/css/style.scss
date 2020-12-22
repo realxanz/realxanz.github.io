@@ -5,12 +5,20 @@
 
 $black-primary: #131419;
 $white-primary: #FFF;
-$white-secundary: #73737e;
+$white-secundary: #8e8e97;
 $gray-primary: #5F5F6E;
 
 
 body {
     background-color: $black-primary;
+}
+
+a {
+    color: $gray-primary;
+
+    &:hover {
+        color: $white-secundary;
+    }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -28,8 +36,4 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 a, h1 a:hover {
     color: $white-primary
-}
-
-a {
-    color: $gray-primary;
 }
