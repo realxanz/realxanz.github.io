@@ -11,7 +11,7 @@ This project was made for a _college assignment_.
 ### In this project I acted as
 I’ve worked as a game designer and visual scripting (Construct 3) developer for this project. I designed core gameplay with Rodrigo Praetzel.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C8WyjNE42DM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="480" height="315" src="https://www.youtube.com/embed/C8WyjNE42DM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
 ### Difficulties

@@ -10,7 +10,7 @@ This project was made for a _college assignment_.
 ### In this project I acted as
 I’ve worked as a game designer and visual scripting (Construct 3) developer for this project. I designed the level up, classes change and item drop mechanics.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qK3qda1EG6M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="480" height="315" src="https://www.youtube.com/embed/qK3qda1EG6M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
 ### Difficulties

@@ -10,7 +10,7 @@ This project was made for a _college assignment_.
 ### In this project I acted as
 Game designer and developer, and I was the only programmer in this project, making this a great learning project for me.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yxxj7yLxm5s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="480" height="315" src="https://www.youtube.com/embed/Yxxj7yLxm5s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
 ### Difficulties
